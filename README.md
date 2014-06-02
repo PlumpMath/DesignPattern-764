@@ -1,0 +1,1 @@
+This is a personal use design pattern implementation in Java 
